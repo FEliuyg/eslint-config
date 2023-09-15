@@ -1,0 +1,16 @@
+{
+  "name": "@xiaoyaoliu/eslint-config-monorepo",
+  "version": "0.0.2",
+  "packageManager": "pnpm@8.7.5",
+  "private": true,
+  "scripts": {
+    "release": "bumpp -r && pnpm -r publish"
+  },
+  "keywords": [],
+  "author": "xiaoyao",
+  "license": "MIT",
+  "devDependencies": {
+    "bumpp": "^9.2.0",
+    "eslint": "^8.49.0"
+  }
+}
