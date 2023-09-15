@@ -12,5 +12,9 @@
   "devDependencies": {
     "bumpp": "^9.2.0",
     "eslint": "^8.49.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
